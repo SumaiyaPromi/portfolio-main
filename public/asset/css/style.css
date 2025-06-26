@@ -9,11 +9,12 @@ body {
 }
 
 nav {
-    background-color: #0b3c58;
+    background-color: #dd4141;
     padding: 1rem 2rem;
     display: flex;
     justify-content: space-between; 
     align-items: center;
+    border-radius: 30px;
 }
 
 nav h6 {
@@ -52,9 +53,9 @@ img {
     max-width: 700px;
     margin: 2rem auto;
     padding: 2rem;
-    background-color: #fff;
+    background-color: rgb(230, 125, 125);
     border-radius: 12px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 10px rgba(62, 211, 87, 0.1);
 }
 
 .info h2 {
